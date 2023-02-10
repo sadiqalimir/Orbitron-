@@ -22,4 +22,4 @@ The Orbital Speed Calculator is intended for educational purposes only and is no
 If you would like to contribute to the development of the Orbital Speed Calculator, please fork the repository and submit a pull request with your changes.
 
 ## License
-The Orbital Speed Calculator is open-source software and is released under the MIT License.
+The "Orbitron" is open-source software and is released under the MIT License.
